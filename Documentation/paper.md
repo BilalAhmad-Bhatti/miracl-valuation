@@ -32,6 +32,7 @@ affiliations:
  - name: Pacific Northwest National Laboratory
    index: 1
 date: 13 August 2017
+
 bibliography: paper.bib
 ---
 # Summary
