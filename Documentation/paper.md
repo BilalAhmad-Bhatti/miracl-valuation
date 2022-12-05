@@ -1,41 +1,35 @@
 ---
 title: 'Distributed Wind Valuation Service'
 tags:
+  - Python
   - renewable energy
   - distributed wind energy
-  - distributed energy resources
-  - valuation 
-
+  - valuation
 authors:
-  - name:  Bilal Ahmad Bhatti
+  - name: Bilal Ahmad Bhatti
     orcid: 0000-0003-2149-1163
-    equal-contrib: false
     affiliation: 1
-     equal-contrib: 
- - name:   Andrew Reiman
+  - name: Andrew Reiman
     orcid: 0000-0003-0204-2960
-    equal-contrib: false
     affiliation: 1
-- name:   Daniel Boff
+  - name: Daniel Boff
     orcid: 0000-0002-7829-3873
-    equal-contrib: false
     affiliation: 1
-- name:  Sarah Barrows 
+  - name: Sarah Barrows 
     orcid: 
-    equal-contrib: false
     affiliation: 1
- - name: Alice Orrell 
+  - name: Alice Orrell
     orcid: 0000-0002-9418-9451
-    equal-contrib: false
-    affiliation: 1
+    affiliation: 1    
 affiliations:
- - name: Pacific Northwest National Laboratory
-   index: 1
+  - name: Pacific Northwest National Laboratory, Richland, WA, USA
+    index: 1
 date: 13 August 2017
-
 bibliography: paper.bib
 ---
+
 # Summary
+
 As the electricity system becomes more renewable and distributed, an increasingly diverse set of technologies will need to be compared and evaluated. These technologies may create different values, which may accrue to a diverse set of stakeholders. Distributed wind has the ability to deliver a broad set of benefits, ranging from electricity generation to pollution reduction, ancillary services, renewable energy credits, as well as reduced peak capacity charges. However, these values are often poorly understood and difficult to calculate. This software allows users to better understand this flow of benefits. Users can then use these findings to assist in cost-benefit analysis, compare distributed wind to other resources, and identify potential high value operations for their projects.   
 
 # Statement of need
