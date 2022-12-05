@@ -25,7 +25,7 @@ affiliations:
   - name: Pacific Northwest National Laboratory, Richland, WA, USA
     index: 1
 date: 13 August 2017
-bibliography: paper.bib
+bibliography: paper.bib  
 ---
 
 # Summary
